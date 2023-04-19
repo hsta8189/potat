@@ -14,4 +14,4 @@ $$\potat \pinkpotat \limepotat \bluepotat \yellowpotat \redpotat $$
 
 ![image](https://user-images.githubusercontent.com/82706395/233000238-edf8bb0b-d171-4e1d-9f33-6f55d75324da.png)
 
-Make sure you use them in math mode! 
+Make sure you use them in math mode! Be slightly careful about using as the copyrighting/licensing of emoji fonts can be complex.

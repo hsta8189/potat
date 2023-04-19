@@ -8,7 +8,7 @@ Commands:
 ```latex
 $$ \strawb \greenstrawb \limestrawb \orangestrawb \turqstrawb \yellowstrawb \pinkstrawb $$  
 
-$$\potat \pinkpotat \limepotat \bluepotat \yellowpotat \redpotat $$ 
+$$ \potat \pinkpotat \limepotat \bluepotat \yellowpotat \redpotat $$ 
 ```
 
 
